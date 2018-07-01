@@ -87,9 +87,15 @@ let adjective5 = prompt('What is another word used to describe the vehicle?');
 // TODO: To begin with, prompt the user to collect their favorite number that is not zero.
 // Call this variable "userNumber".
 
+let userNumber = prompt('What is your lucky number?');
+
 // TODO: generate TWO more numbers called "number2" and "number 3".
 // Use any operator you would like to add, multiply, divide, or otherwise
 // change the number that the user submitted.
+
+let number2 = userNumber**4;
+
+let number3 = userNumber / number2 + (number2/12);
 
 
 // DO NOT EDIT BELOW THIS LINE /////////////////////////////////////////
