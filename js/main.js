@@ -19,7 +19,7 @@ let honorific = prompt('Please enter an honorific title (e.g. Mister or Colonel)
 let authorName = prompt('What is your full name?');
 
 // TODO: A variable named "adjective1" for a word used to describe something.
-let adjective1 = prompt('Give a word used to describe something');
+let adjective1 = prompt('Give a word used to describe something.');
 
 // TODO: A variable named "vehicle" for a mode of transation (e.g. plane, boat, etc.).
 let vehicle = prompt('What is a vechicle used for transporattion (e.g. plane, boat, etc)?');
@@ -37,7 +37,7 @@ let precious = prompt('What is a precious object?');
 let noiseMaker = prompt('What is the name of something that makes a sound?');
 
 // TODO: A variable named "crowdBehavior" for something that people do together as a group.
-let crowdBehavior = prompt('What is the name of something that people do togeter as a group?');
+let crowdBehavior = prompt('What is the name of something that people do together as a group?');
 
 // TODO: A variable named "adjective2" for a word used to describe something.
 let adjective2 = prompt('What is the name of a word used to describe something?');
