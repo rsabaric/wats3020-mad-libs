@@ -15,13 +15,13 @@ let authorName = prompt('What is your full name?');
 
 let adjective1 = prompt('Give a word used to describe something.');
 
-let vehicle = prompt('What is a vehicle used for transporattion (e.g. plane, boat, etc)?');
+let vehicle = prompt('What is a vehicle used for transporation (e.g. plane, boat, etc)?');
 
 let vehiclePart = prompt('What is a part of the vehicle just named?');
 
-let parking = prompt('What is a location where the named vechicle would be parked?');
+let parking = prompt('What is a location where the named vehicle would be parked?');
 
-let precious = prompt('What is a precious object?');
+let precious = prompt('Name a precious object.');
 
 let noiseMaker = prompt('What is the name of something that makes a sound?');
 
